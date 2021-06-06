@@ -49,3 +49,9 @@ margin-top: -30%;
 h3,h2{
   color: #2b2e4a;
 }
+.education{
+  background-color: #903749;
+  width: 400px;
+  height: 300px;
+  border: 20px solid #903749;
+}
