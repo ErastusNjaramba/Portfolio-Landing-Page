@@ -24,3 +24,8 @@ li{
   margin-top: -13%;
   margin-left: 40%;
 }
+.band{
+  background-color: #903749;
+  width: 250px;
+  border: 15px solid #903749;
+}
