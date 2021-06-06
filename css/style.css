@@ -20,12 +20,32 @@ li{
   font-size: 20px;
   color: #2b2e4a;
 }
+h2{
+  margin-left: 4%;
+  text-decoration: underline;
+}
+.names{
+margin-left: 25%;
+margin-top: -30%;
+}
 .projects{
   margin-top: -13%;
   margin-left: 40%;
 }
 .band{
   background-color: #903749;
-  width: 250px;
+  width: 300px;
+  height: 200px;
   border: 15px solid #903749;
+}
+.kitchen{
+  background-color: #903749;
+  width: 300px;
+  height: 200px;
+  border: 20px solid #903749;
+  margin-top: -22%;
+  margin-left: 40%;
+}
+h3,h2{
+  color: #2b2e4a;
 }
