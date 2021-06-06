@@ -15,6 +15,9 @@ No known bugs yet
 ## Technologies Used
 * HTML
 * CSS
+## Link to live site on github pages
+[Github](https://erastusnjaramba.github.io/Portfolio-Landing-Page/)
+
 ## Support and contact details
 If you want to contact me, email me on erastus11njaramba@gmail.com
 ### License
